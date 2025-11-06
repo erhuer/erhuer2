@@ -26,9 +26,9 @@ author:
   avatar           : "胡心龙.jpg"
   name             : "Xinlong Hu"
   pronouns         : "he/him"  
-  bio              : "Never Never give up!!"
+  bio              : "Never ever give up!!"
   location         : "B.J,China"
-  employer         : "XiZang University &UCAS"
+  employer         : "XiZang University & UCAS"
   uri              : # URL
   email            : "erhuer2@outlook.com" 
 
@@ -54,7 +54,7 @@ author:
 
   # Social media
   artstation       : # Username
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
+  bluesky          : "" # Replace this with you Bluesky username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
