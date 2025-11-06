@@ -23,24 +23,24 @@ repository               : "erhuer/erhuer2.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "胡心龙.jpg"
   name             : "Xinlong Hu"
   pronouns         : "he/him"  
   bio              : "Never Never give up!!"
   location         : "B.J,China"
-  employer         : "UCAS"
+  employer         : "XiZang University &UCAS"
   uri              : # URL
   email            : "erhuer2@outlook.com" 
 
   # Academic websites
   academia         : # URL
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+  googlescholar    : "https://scholar.google.com/"
   inspire-hep      : # URL
   impactstory      : # URL
-  orcid            : "https://orcid.org/yourorcidurl"
+  orcid            : "https://orcid.org/0009-0008-8827-4212"
   semantic         : # URL
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/"
   researchgate     : # URL
   scopus           : # URL
 
