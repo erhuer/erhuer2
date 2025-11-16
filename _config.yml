@@ -13,34 +13,34 @@ title                    : "Xinlong Hu"
 title_separator          : "-"
 name                     : &name "Xinlong Hu"
 description              : &description "Xinlong's academic portfolio"   # Update this with a general description of your site, this is the default if not overridden by a page
-url                      : https://erhuer.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
+url                      : https://erhuer.github.io/erhuer2 # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
                                                            # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "erhuer/erhuer2.github.io"
+repository               : "erhuer.github.io/erhuer2/"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "胡心龙.jpg"
   name             : "Xinlong Hu"
   pronouns         : "he/him"  
-  bio              : "Never Never give up!!"
+  bio              : "Never ever give up!!"
   location         : "B.J,China"
-  employer         : "UCAS"
+  employer         : "XiZang University & UCAS"
   uri              : # URL
   email            : "erhuer2@outlook.com" 
 
   # Academic websites
   academia         : # URL
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+  googlescholar    : "https://scholar.google.com/"
   inspire-hep      : # URL
   impactstory      : # URL
-  orcid            : "https://orcid.org/yourorcidurl"
+  orcid            : "https://orcid.org/0009-0008-8827-4212"
   semantic         : # URL
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/"
   researchgate     : # URL
   scopus           : # URL
 
@@ -54,7 +54,7 @@ author:
 
   # Social media
   artstation       : # Username
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
+  bluesky          : "" # Replace this with you Bluesky username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
