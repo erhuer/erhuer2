@@ -16,7 +16,6 @@
 </style>
 
 <div class="cv-container">
-  <!-- Basic Information -->
   <div class="cv-section cv-header">
     <h1>{{ cv.basics.name }}</h1>
     {% if cv.basics.label %}
@@ -63,7 +62,6 @@
   </div>
 
   {% if cv.basics.summary %}
-  <!-- Summary -->
   <div class="cv-section">
     <h2>Summary</h2>
     <p>{{ cv.basics.summary }}</p>
@@ -71,7 +69,6 @@
   {% endif %}
 
   {% if cv.education.size > 0 %}
-  <!-- Education -->
   <div class="cv-section">
     <h2>Education</h2>
     <ul class="cv-list">
@@ -99,7 +96,6 @@
   {% endif %}
 
   {% if cv.work.size > 0 %}
-  <!-- Work Experience -->
   <div class="cv-section">
     <h2>Work Experience</h2>
     <ul class="cv-list">
@@ -129,7 +125,6 @@
   {% endif %}
 
   {% if cv.skills.size > 0 %}
-  <!-- Skills -->
   <div class="cv-section">
     <h2>Skills</h2>
     <div class="cv-skills">
@@ -148,7 +143,6 @@
   {% endif %}
 
   {% if cv.publications.size > 0 %}
-  <!-- Publications -->
   <div class="cv-section">
     <h2>Publications</h2>
     <ul class="cv-list">
@@ -176,7 +170,6 @@
   {% endif %}
 
   {% if cv.presentations.size > 0 %}
-  <!-- Presentations/Talks -->
   <div class="cv-section">
     <h2>Presentations</h2>
     <ul class="cv-list">
@@ -202,7 +195,6 @@
   {% endif %}
 
   {% if cv.teaching.size > 0 %}
-  <!-- Teaching -->
   <div class="cv-section">
     <h2>Teaching</h2>
     <ul class="cv-list">
@@ -227,7 +219,7 @@
   </div>
   {% endif %}
 
-  <!-- Languages -->
+  {% if cv.languages.size > 0 %}
   <div class="cv-section">
     <h2>Languages</h2>
     <ul class="cv-list">
@@ -244,7 +236,6 @@
   {% endif %}
 
   {% if cv.interests.size > 0 %}
-  <!-- Interests -->
   <div class="cv-section">
     <h2>Interests</h2>
     <ul class="cv-list">
@@ -263,7 +254,6 @@
   {% endif %}
 
   {% if cv.references.size > 0 %}
-  <!-- References -->
   <div class="cv-section">
     <h2>References</h2>
     <ul class="cv-list">
