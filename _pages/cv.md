@@ -11,5 +11,5 @@ redirect_from:
 
 Education
 ======
-* Ph.D in UCAS, 2026-2031 (Admitted)
+* Ph.D in UCAS, 2026-2031
 * B.S. in Lhasa, Tibet University, 2022-2026
